@@ -1,1 +1,2 @@
 This is my first GIT practice file
+Another line added to learn mixed commit reset 
