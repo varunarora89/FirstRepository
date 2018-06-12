@@ -1,2 +1,2 @@
 This is my first GIT practice file
-Second line added in first file
+
